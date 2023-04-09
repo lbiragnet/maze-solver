@@ -1,0 +1,129 @@
+ORDER: bottom - right - left - top
+------------------------------DEPTH FIRST SEARCH RESULTS------------------------------
+
+RESULTS FOR maze-Easy USING DEPTH FIRST SEARCH:
+Path length: 27
+Number of explored nodes: 45
+Number of steps: 66
+Execution Time: 4.5800000000095764e-05 seconds
+
+
+RESULTS FOR maze-Medium USING DEPTH FIRST SEARCH:
+Path length: 339
+Number of explored nodes: 2493
+Number of steps: 4693
+Execution Time: 0.005853600000000014 seconds
+
+
+RESULTS FOR maze-Large USING DEPTH FIRST SEARCH:
+Path length: 1092
+Number of explored nodes: 10308
+Number of steps: 19664
+Execution Time: 0.05050230000000022 seconds
+
+
+RESULTS FOR maze-VLarge USING DEPTH FIRST SEARCH:
+Path length: 3737
+Number of explored nodes: 113322
+Number of steps: 223554
+Execution Time: 4.233561 seconds
+
+
+----------------------------------------------------------------------
+ORDER: right - bottom - left - top
+
+------------------------------DEPTH FIRST SEARCH RESULTS------------------------------
+
+RESULTS FOR maze-Easy USING DEPTH FIRST SEARCH:
+Path length: 27
+Number of explored nodes: 34
+Number of steps: 43
+Execution Time: 3.8200000000099266e-05 seconds
+
+
+RESULTS FOR maze-Medium USING DEPTH FIRST SEARCH:
+Path length: 321
+Number of explored nodes: 548
+Number of steps: 789
+Execution Time: 0.0011060000000000514 seconds
+
+
+RESULTS FOR maze-Large USING DEPTH FIRST SEARCH:
+Path length: 1028
+Number of explored nodes: 61659
+Number of steps: 122491
+Execution Time: 0.2955592 seconds
+
+
+RESULTS FOR maze-VLarge USING DEPTH FIRST SEARCH:
+Path length: 3737
+Number of explored nodes: 380656
+Number of steps: 758039
+Execution Time: 18.4828122 seconds
+
+
+------------------------------------------------------------------
+ORDER: left - bottom - right - top
+
+------------------------------DEPTH FIRST SEARCH RESULTS------------------------------
+
+RESULTS FOR maze-Easy USING DEPTH FIRST SEARCH:
+Path length: 41
+Number of explored nodes: 50
+Number of steps: 86
+Execution Time: 5.209999999999937e-05 seconds
+
+
+RESULTS FOR maze-Medium USING DEPTH FIRST SEARCH:
+Path length: 625
+Number of explored nodes: 5751
+Number of steps: 11260
+Execution Time: 0.02218359999999997 seconds
+
+
+RESULTS FOR maze-Large USING DEPTH FIRST SEARCH:
+Path length: 1142
+Number of explored nodes: 14684
+Number of steps: 28534
+Execution Time: 0.06426830000000017 seconds
+
+
+RESULTS FOR maze-VLarge USING DEPTH FIRST SEARCH:
+Path length: 4053
+Number of explored nodes: 88662
+Number of steps: 175799
+Execution Time: 2.442818 seconds
+
+------------------------------------------------------------------
+ORDER: left - right - bottom - top
+
+------------------------------DEPTH FIRST SEARCH RESULTS------------------------------
+
+RESULTS FOR maze-Easy USING DEPTH FIRST SEARCH:
+Path length: 27
+Number of explored nodes: 77
+Number of steps: 149
+Execution Time: 8.76000000000765e-05 seconds
+
+
+RESULTS FOR maze-Medium USING DEPTH FIRST SEARCH:
+Path length: 575
+Number of explored nodes: 2023
+Number of steps: 3813
+Execution Time: 0.004871999999999765 seconds
+
+
+RESULTS FOR maze-Large USING DEPTH FIRST SEARCH:
+Path length: 1050
+Number of explored nodes: 70504
+Number of steps: 140310
+Execution Time: 0.2912378000000002 seconds
+
+
+RESULTS FOR maze-VLarge USING DEPTH FIRST SEARCH:
+Path length: 4049
+Number of explored nodes: 134772
+Number of steps: 267881
+Execution Time: 5.9815033 seconds
+
+------------------------------------------------------------------
